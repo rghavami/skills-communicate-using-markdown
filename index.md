@@ -9,3 +9,7 @@ Created a Xmas Vacation synopsis.
 ``` javascript
 var myCousin = "Hello, Ed!";
 ```
+
+- [x] Chop down illegal tree
+- [ ] Invite the neighbors
+- [x] Destroy the house
